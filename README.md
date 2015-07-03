@@ -1,2 +1,2 @@
 # porkys
-you do the math
+you do the math, man
